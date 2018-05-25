@@ -6,6 +6,6 @@ Management of open contract system for Municipality
 In terminal write the following commands:
 
 * cd Desktop
-* git clone hhttps://github.com/erzaaD/project
+* git clone hhttps://github.com/erzaaD/Techstitution
 * cd project* npm install
 * npm start (or nodemon)
